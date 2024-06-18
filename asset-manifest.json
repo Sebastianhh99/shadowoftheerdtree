@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/shadowoftheerdtree/static/css/main.4c93d0a1.css",
-    "main.js": "/shadowoftheerdtree/static/js/main.cf83a206.js",
+    "main.js": "/shadowoftheerdtree/static/js/main.63f02171.js",
     "static/js/453.ed3810f9.chunk.js": "/shadowoftheerdtree/static/js/453.ed3810f9.chunk.js",
-    "static/media/xd.png": "/shadowoftheerdtree/static/media/xd.021b21a0f0b23911007e.png",
+    "static/media/eldenring.png": "/shadowoftheerdtree/static/media/eldenring.021b21a0f0b23911007e.png",
     "index.html": "/shadowoftheerdtree/index.html",
     "main.4c93d0a1.css.map": "/shadowoftheerdtree/static/css/main.4c93d0a1.css.map",
-    "main.cf83a206.js.map": "/shadowoftheerdtree/static/js/main.cf83a206.js.map",
+    "main.63f02171.js.map": "/shadowoftheerdtree/static/js/main.63f02171.js.map",
     "453.ed3810f9.chunk.js.map": "/shadowoftheerdtree/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c93d0a1.css",
-    "static/js/main.cf83a206.js"
+    "static/js/main.63f02171.js"
   ]
 }
